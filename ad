@@ -1,0 +1,24 @@
+[33m1bce75e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Merge branch 'feature-e'
+[33mfbe851a[m Deleted txt file
+[33m6208e7c[m[33m ([m[1;31morigin/feature-e[m[33m, [m[1;32mfeature-e[m[33m)[m Modified text file
+[33mdba5c81[m Merge branch 'feature-c'
+[33m61ff8c4[m Added new text
+[33m9ce4834[m[33m ([m[1;31morigin/feature-c[m[33m, [m[1;32mfeature-c[m[33m)[m Added new paragraph
+[33m9b19ebe[m Merge branch 'feature-b'
+[33m5476bae[m Changed text color to red
+[33m7ab7768[m[33m ([m[1;31morigin/feature-b[m[33m, [m[1;32mfeature-b[m[33m)[m Changed description
+[33m8e771ce[m Merge branch 'feature-a'
+[33md463c4a[m Modified index.html on master add h2
+[33m5fa583e[m[33m ([m[1;31morigin/feature-a[m[33m, [m[1;32mfeature-a[m[33m)[m Modified index.html - add h2
+[33mbe9f5e0[m[33m ([m[1;32mtekst-branch[m[33m)[m change
+[33mab4fa80[m changes
+[33m203d866[m Changed file for 3-way merge example part 3
+[33mb6bef3b[m[33m ([m[1;31morigin/third-branch[m[33m, [m[1;32mthird-branch[m[33m)[m Changed file for 3-way merge example part 2
+[33mfca90c1[m Changed file for 3-way merge example part 1
+[33ma072227[m[33m ([m[1;31morigin/first-branch[m[33m, [m[1;32mfirst-branch[m[33m)[m Added new file
+[33m58bd75b[m Changed README.md in first-branch
+[33md280400[m Added .gitignore file
+[33m12ee697[m Modified README.md and index.html
+[33md26332d[m Added file index.html with example text
+[33m2fea9c7[m My first commit from Git Bash with README file changed
+[33md59f7e3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Initial commit
